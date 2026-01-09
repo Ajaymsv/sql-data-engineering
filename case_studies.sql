@@ -4,6 +4,11 @@
 -- Focus: Business-driven analytics queries
 -- =====================================================
 
+
+-- BUSINESS CONTEXT:
+-- The sales team wants to identify high-value customers
+-- to target loyalty programs and promotions.
+
 -- Case Study 1: Top 5 customers by total revenue
 SELECT
     customer_id,
